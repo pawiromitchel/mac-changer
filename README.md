@@ -1,6 +1,6 @@
 # py-mac-changer
 
-This project is made while doing a course in Python for Ethical Hacking.
+This project was made while doing a course in Python for Ethical Hacking.
 
 ## Requirements
 - Kali Linux 2019
